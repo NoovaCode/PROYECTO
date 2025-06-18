@@ -1,6 +1,6 @@
 ## INFORMACIÓN PARA FUNCIONAMIENTO CON DOCKER-ELENA
 1.- docker-compose up -d
-2. Acceder al navegador
+2.- Acceder al navegador
 - http://localhost:8080
 Credenciales de acceso para phpmyadmin:
 usuario:user1
