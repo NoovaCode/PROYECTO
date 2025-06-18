@@ -1,3 +1,16 @@
+## INFORMACIÓN PARA FUNCIONAMIENTO CON DOCKER-ELENA
+1.- docker-compose up -d
+2. Acceder al navegador
+- http://localhost:8080
+Credenciales de acceso para phpmyadmin:
+usuario:user1
+password:user1.pa55
+
+-http://localhost:8082/inicio.php 
+Credenciales de acceso YA REGISTRADAS
+correo:elenapizano00@gmail.com
+contraseña:calabaza
+
 ## Descripción del proyecto
 
 Este proyecto es una aplicación web basada en PHP y MySQL para la gestión de eventos. El proyecto permite a los usuarios crear, ver, actualizar y eliminar eventos, así como buscar eventos según varios criterios. La aplicación está diseñada para ser fácil de usar y personalizable, con una interfaz amigable para el usuario y una variedad de características para satisfacer las necesidades de diferentes usuarios.
