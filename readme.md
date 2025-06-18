@@ -7,12 +7,16 @@
   
 Credenciales de acceso para phpmyadmin:
 usuario:user1
+
 password:user1.pa55
 
--http://localhost:8082/inicio.php 
+
+- http://localhost:8082/inicio.php 
 
 Credenciales de acceso YA REGISTRADAS
+
 correo:elenapizano00@gmail.com
+
 contraseña:calabaza
 
 ## Descripción del proyecto
