@@ -6,6 +6,7 @@
 - http://localhost:8080
   
 Credenciales de acceso para phpmyadmin:
+
 usuario:user1
 
 password:user1.pa55
